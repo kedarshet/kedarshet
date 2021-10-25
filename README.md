@@ -29,3 +29,16 @@
 <a href=""><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/-Express.js-787878?style=flat" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white" /></a> -->
+
+
+
+  
+  
+
+
+## 🏆 GitHub Stats
+![Surya's Github stats](https://github-readme-stats.vercel.app/api?username=SuryaMN&count_private=true&theme=tokyonight)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaMN&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SuryaMN&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
