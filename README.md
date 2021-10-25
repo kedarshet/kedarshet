@@ -24,12 +24,11 @@
 
 ### 🛠 Frameworks and Tools
 
-<!-- <a href=""><img alt="" src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF" /></a>
+<a href=""><img alt="" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_flask.png" /></a>
+<!-- <a href=""><img alt="" src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/-Express.js-787878?style=flat" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white" /></a> -->
-
 
 
   
