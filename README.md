@@ -45,5 +45,5 @@
 ## 🏆 GitHub Stats
 ![Kedar's Github stats](https://github-readme-stats.vercel.app/api?username=kedarshet&count_private=true&theme=tokyonight)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kedarshet)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kedarshet&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kedarshet&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
