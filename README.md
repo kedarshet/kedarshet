@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,I'm Kedar U Shet</h1>
+<h1 align="center">Hi,I'm Kedar U Shet<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
 <h3 align="center">CSE Undergrad at PES University, Bengaluru, India.</h3>
 
